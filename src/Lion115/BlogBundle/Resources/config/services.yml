@@ -1,0 +1,4 @@
+services:
+#    lion115_blog.example:
+#        class: Lion115\BlogBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
